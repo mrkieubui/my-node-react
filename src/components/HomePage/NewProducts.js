@@ -18,7 +18,7 @@ export default class NewProducts extends Component {
                     {
                         products.map((product, key) => {
                             if (key < limit) {
-                                return <Product key={key} product={product} />
+                                return <Product key={"item"+key} product={product} />
                             } else return null
                         })
                     }
