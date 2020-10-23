@@ -26,7 +26,7 @@ class App extends React.Component {
     const ScrollToTop = withRouter(_ScrollToTop);
     return (
       <Router >
-        {/* <ScrollToTop> */}
+        <ScrollToTop>
           {/* Section MavMenu */}
           <Header />
 
@@ -46,7 +46,7 @@ class App extends React.Component {
 
           {/* Footer */}
           <Footer />
-        {/* </ScrollToTop> */}
+        </ScrollToTop>
       </Router>
     );
   }

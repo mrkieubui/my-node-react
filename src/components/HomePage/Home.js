@@ -36,6 +36,7 @@ export default class Home extends Component {
             return <Redirect to="/login" />
         }
         var { products } = this.state;
+        console.log(products);
         return (
             <div className="home_page">
 

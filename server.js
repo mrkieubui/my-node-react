@@ -30,7 +30,7 @@ app.use(morgan('common'));
 
 app.use(express.static(path.resolve(__dirname, 'build')));
 
-app.get('*', (req, res) => {
+app.get('/', (req, res) => {
     res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
 });
 // Get product list
@@ -41,6 +41,7 @@ app.get('/api/products', function (req, res, next) {
             res.status(400).send(err);
         }
         res.json(result.rows);
+        
     });
 });
 // Get 1 product 
