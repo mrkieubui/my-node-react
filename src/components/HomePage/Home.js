@@ -6,6 +6,8 @@ import Banner from './Banner';
 import NewProducts from './NewProducts';
 import { Redirect } from 'react-router-dom';
 
+var products = require('./products.json');
+
 export default class Home extends Component {
     constructor(props) {
         super(props);
@@ -15,22 +17,22 @@ export default class Home extends Component {
             isLoggedIn = false
         }
         this.state = {
-            products: [],
+            products: products,
             isLoggedIn
         }
     }
 
-    componentDidMount() {
+    // componentDidMount() {
         // Postgres database
-        axios.get('/api/test').then(result => this.setState({ message: result.data.message }))
-        axios.get('/api/products').then(result => this.setState({ products: result.data }))
+        // axios.get('/api/test').then(result => this.setState({ message: result.data.message }))
+        // axios.get('/api/products').then(result => this.setState({ products: result.data }))
 
         // SQL database
         // axios.get('/api/test_sql').then(res => {
         //   const products = res.data.products;
         //   this.setState({ products });
         // }).catch(error => console.log(error));
-    }
+    // }
     render() {
         if (this.state.isLoggedIn === false) {
             return <Redirect to="/login" />

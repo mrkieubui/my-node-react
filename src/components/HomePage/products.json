@@ -1,0 +1,112 @@
+[
+    {
+        "id": "7",
+        "product_name": "Bộ dưỡng chất Serum Vichy",
+        "product_price": "1261000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/72/e4/b89b6cfb7a192c5f3601b13eae49279f.jpg",
+        "product_old_price": "2000000",
+        "product_sale": "40",
+        "product_rating": "5",
+        "product_location": "Hồ Chí Minh"
+    },
+    {
+        "id": "8",
+        "product_name": "Bộ đồ chơi trẻ em Yimi",
+        "product_price": "229000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/88/69/27/3486fda20640edaa0524616139abf16f.jpg",
+        "product_old_price": "300000",
+        "product_sale": "30",
+        "product_rating": "4",
+        "product_location": "Bình Dương"
+    },
+    {
+        "id": "2",
+        "product_name": "Bàn phím Game Newman",
+        "product_price": "370000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/media/catalog/product//g/m/gm100s.u504.d20161115.t185601.165027.jpg",
+        "product_old_price": "700000",
+        "product_sale": "42",
+        "product_rating": "5",
+        "product_location": "Hà nội"
+    },
+    {
+        "id": "3",
+        "product_name": "Máy Cassette Sony ZS-RS60BT - Hàng Chính Hãng",
+        "product_price": "2449000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/73/9f/65/1c0c5fb31c8ff74cb5e9527d90d9d74b.jpg",
+        "product_old_price": "300000",
+        "product_sale": "25",
+        "product_rating": "4",
+        "product_location": "Hà nội"
+    },
+    {
+        "id": "9",
+        "product_name": "Cáp nối dài Điện Quang 5W",
+        "product_price": "47000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/t/r/trang_16_2.jpg",
+        "product_old_price": "94000",
+        "product_sale": "50",
+        "product_rating": "4",
+        "product_location": "Nghệ An"
+    },
+    {
+        "id": "4",
+        "product_name": "Đồng bộ Dell Optiplex",
+        "product_price": "4646000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/6b/78/64/c637a1d725308b5e229608b0f1b79d22.jpg",
+        "product_old_price": "5000000",
+        "product_sale": "10",
+        "product_rating": "2",
+        "product_location": "Hồ Chí Minh"
+    },
+    {
+        "id": "6",
+        "product_name": "Khéo ăn nói sẽ có cả thiên hạ",
+        "product_price": "77120.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/22/a9/48/0c3a79227ba92104f59c3a90238e9129.jpg",
+        "product_old_price": "150000",
+        "product_sale": "48",
+        "product_rating": "5",
+        "product_location": "Hàng quốc tế"
+    },
+    {
+        "id": "5",
+        "product_name": "Bị theo dõi",
+        "product_price": "244000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/61/32/ac/2683082783c9cdf38865cb309edc86c3.png",
+        "product_old_price": "488000",
+        "product_sale": "50",
+        "product_rating": "4",
+        "product_location": "Hà nội"
+    },
+    {
+        "id": "10",
+        "product_name": "Cân Xiaomi thông minh",
+        "product_price": "329000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/3b/0d/fe9949ca63564216649c84ee1935c8fc.jpg",
+        "product_old_price": "400000",
+        "product_sale": "18",
+        "product_rating": "5",
+        "product_location": "Hải Phòng Rất lòng vòng"
+    },
+    {
+        "id": "11",
+        "product_name": "Bàn phím chuột Bay Sotate (giành cho mấy ổng nghiện game)",
+        "product_price": "549000.0",
+        "product_image": null,
+        "product_old_price": "800000",
+        "product_sale": "35",
+        "product_rating": "5",
+        "product_location": "Hồ Chí Minh"
+    },
+    {
+        "id": "1",
+        "product_name": "Tranh treo tường PP_137",
+        "product_price": "322000.0",
+        "product_image": "https://salt.tikicdn.com/cache/280x280/ts/product/2e/df/0a/3f303a91ffa6d2f8bd81c41e4827ce66.jpg",
+        "product_old_price": "600000",
+        "product_sale": "45",
+        "product_rating": "3",
+        "product_location": "Hàng quốc tế"
+    }
+]
